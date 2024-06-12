@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.app.localpoint",
+        "sha256_cert_fingerprints": ["3C:99:0B:A1:09:70:9D:54:96:39:10:D6:0B:EF:96:2A:66:29:61:83:DE:D8:42:83:36:B5:7F:F2:E7:1C:03:7C"]
+      }
+    }]
